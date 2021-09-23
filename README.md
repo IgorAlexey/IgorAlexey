@@ -1,3 +1,2 @@
-Software developer;
-Assembly, C, C++, C#, Lua, Javascript, Powershell, Batch Knowledge,
+Software developer with some C and C++ knowledge,
 usually working on random projects.
