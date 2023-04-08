@@ -1,2 +1,6 @@
-## Igor Alexey
-As a software developer, My focus often surrounds C, C++, Rust, and Lua, I have experience working on a number of projects including game engines and embedded systems, VortexDevSoftware organization, contains a range of projects I have worked on, so please feel free to check it out if you're looking for something specific.
+### Igor Alexey
+A passionate software developer, I revel in mastering the intricacies of languages such as C, C++, Rust, and Lua...<br>
+My experience spans an array of projects, from game engines, automation and embedded systems.<br>
+if you're looking for something specific, see [Vortex Interactive](https://github.com/vortexdevsoftware), an organization that showcases a curated selection of my finest work.
+
+![](https://komarev.com/ghpvc/?username=Sororfortuna&label=views)
