@@ -1,6 +1,6 @@
 Steam game developer, I work with a number of different technologies
 such as game engines, automation and embedded systems.<br>
-if you're looking for something specific, see [Vortex Interactive](https://github.com/vortexdevsoftware), an organization that showcases some of my finest work.
+if you're looking for something specific, see [Vortex Interactive](https://github.com/vortexdevsoftware)
 
 #### Languages
 
