@@ -1,8 +1,8 @@
 <h1 align="center">Igor Alexey</h1>
 
 <p align="center">
-I'm a multi-faceted developer working in different fields<br>
-like simulations, automation and embedded systems ...<br>
+A developer working in different fields like<br>
+simulations, automation and embedded systems ...<br>
 See <a href="https://github.com/vortexdevsoftware">Vortex Interactive</a> <br></p>
 
 <h3 align="center">Socials</h3>
